@@ -17,7 +17,7 @@ This is a basic **Todo Application** built with **Spring Boot** and a simple fro
 
 ### 1. **Clone the Project**
    ```bash
-   git clone https://github.com/your-username/simple-todo-app.git
+   git clone https://github.com/cjayahasa/simple-todo-app.git
    cd simple-todo-app
    ```
 
